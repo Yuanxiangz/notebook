@@ -2,4 +2,4 @@
 notebook
 
 
-Linux(study/linux.md)
+[Linux](study/linux.md)
